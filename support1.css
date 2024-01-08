@@ -1,0 +1,65 @@
+td a:link, td a:visited, td a:active {
+  text-decoration: none;
+}
+
+.head a:link, .head a:visited, .head a:active {
+  color:yellow;
+  text-decoration: none;
+}
+
+.head a:hover {
+  color:white;
+}
+
+.foot a:link, .foot a:visited, .foot a:active {
+  color:white;
+  text-decoration: none;
+}
+
+.foot a:hover {
+  color:black;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+#image {
+  font-size: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  text-align: center;
+  width: 60%;
+}
+
+#image tr:nth-child(2) {
+  background-color: purple;
+}
+
+#image tr td a {
+  display: block;
+  color: black;
+}
+
+#image tr td a:hover {
+  color: white;
+}
+
+#link {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+h2:hover {
+  color:purple;
+}
+
+#link tr td a:link, #link tr td a:visited, #link tr td a:active{
+  color: blue;
+}

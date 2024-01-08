@@ -1,0 +1,117 @@
+td a:link, td a:visited, td a:active {
+  text-decoration: none;
+}
+
+.head a:link, .head a:visited, .head a:active {
+  color:yellow;
+  text-decoration: none;
+}
+.head a:hover {
+  color:white;
+}
+
+.foot a:link, .foot a:visited, .foot a:active {
+  color:white;
+  text-decoration: none;
+}
+
+.foot a:hover {
+  color:black;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#volley {
+  display: block;
+  width: 50%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#catan {
+  display: block;
+  width: 50%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#recommend {
+  color: purple;
+  font-size: large;
+  display: inline;
+}
+
+#tennis {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+  
+#tea {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#ball {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#phone {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#rich {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+#related {
+  font-size: large;
+  color: purple;
+  display: inline;
+}
+
+#pro {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+#macbook {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+#air {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+#pod {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}
+
+#pad {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+}

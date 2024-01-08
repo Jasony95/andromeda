@@ -1,0 +1,41 @@
+td a:link, td a:visited, td a:active {
+    text-decoration: none;
+}
+  
+.head a:link, .head a:visited, .head a:active {
+    color:yellow;
+    text-decoration: none;
+}
+.head a:hover {
+    color:white;
+}
+  
+.foot a:link, .foot a:visited, .foot a:active {
+    color:white;
+    text-decoration: none;
+}
+  
+.foot a:hover {
+    color:black;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 2.1em;
+}
+
+h2 {
+  text-align: center;
+}
+
+#table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input[type=submit] {
+  font-size: 1.3em;
+  color: white;
+  background-color: purple;
+}

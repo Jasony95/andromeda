@@ -1,0 +1,59 @@
+td a:link, td a:visited, td a:active {
+    text-decoration: none;
+}
+  
+.head a:link, .head a:visited, .head a:active {
+    color:yellow;
+    text-decoration: none;
+}
+.head a:hover {
+    color:white;
+}
+  
+.foot a:link, .foot a:visited, .foot a:active {
+    color:white;
+    text-decoration: none;
+}
+  
+.foot a:hover {
+    color:black;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 2.4em;
+}
+
+#table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#table tr th {
+  color: purple;
+  font-size: 1.5em;
+}
+
+#table tr:nth-child(2) td:nth-child(1) {
+  color: blue;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+#table tr:nth-child(2) td:nth-child(2) {
+  color: red;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+#table tr td {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+input[type=submit] {
+  color: white;
+  background-color: purple;
+  font-size: 1.3em;
+}

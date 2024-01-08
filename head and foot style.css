@@ -1,0 +1,20 @@
+td a:link, td a:visited, td a:active {
+    text-decoration: none;
+}
+  
+.head a:link, .head a:visited, .head a:active {
+    color:yellow;
+    text-decoration: none;
+}
+.head a:hover {
+    color:white;
+}
+  
+.foot a:link, .foot a:visited, .foot a:active {
+    color:white;
+    text-decoration: none;
+}
+  
+.foot a:hover {
+    color:black;
+}
